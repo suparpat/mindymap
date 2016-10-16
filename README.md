@@ -1,0 +1,2 @@
+# mindymap
+A public mindmap
